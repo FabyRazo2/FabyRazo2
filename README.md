@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Faviola Ivonne Carrillo Razo
+- 👋 Hi, I’m Faviola 
 -  ♀️ Pronouns: "She" | "Her"
 - 👀 I’m interested in software development, data analysis
 - 🌱 I’m currently learning JavaScrip and English
